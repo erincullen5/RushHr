@@ -19,7 +19,7 @@
 - *Justin*
     - Presentation 
 - *Josh*
-    - TBD
+    - Determine cost estimates  for divvy
 - *Jack*
     - Importing and cleaning the Divvy data
 - *Erin*
