@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+Divvy_Stations_2017_Q1Q2.csv
+Divvy_Stations_2017_Q3Q4.csv
+Divvy_Trips_2017_Q1.csv
+
+Divvy_Trips_2017_Q2.csv
+Divvy_Trips_2017_Q3.csv
+Divvy_Trips_2017_Q4.csv
